@@ -1,0 +1,13 @@
+.header{
+    width: 80%;
+    background: coral;
+    display: inline-block;
+}
+.menu{
+    display:inline-block;
+    text-decoration: none ;
+}
+
+.logoPic{
+    background-color: darkblue;
+}
